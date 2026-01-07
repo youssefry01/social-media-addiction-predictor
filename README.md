@@ -4,6 +4,8 @@
 
 A machine learning project that predicts a student's social media addiction score based on their personal and behavioral attributes. Built with Python, trained on real survey data, and deployed via a Streamlit web interface.
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://your-streamlit-app-link-here)
+
 ---
 
 ## 🧠 Overview
